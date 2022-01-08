@@ -6,9 +6,7 @@ Neoliberalism refers to market-oriented policies involving limited government in
 
 The political ideology is said to be the most dominant political ideology of our time and it's fair to say that the UK is a neoliberal society. The conservative party commonly subscribe to this ideology and many of their policies have a neoliberal underpinning. Moreover, neoliberalism is heavily associated with Thatcherism, which saw the privatisation of state-run services, i.e. UK railway and British Telecommunications (BT).
 
-### To simply put it...
-
-**Neoliberalism allows businesses to control the economy with limited government control. So, allowing a few big shots to influence a country’s economy heavily.**
+The major selling point of neoliberalism is its efficiency, as many attribute recent advancements in technology to free-market neoliberal policies. However, this creates a big issue. Most businesses have the primary objective of maximising profits which often goes against public interests (facilitating the acceleration of climate change and low pay to workers). Therefore, with minimal state intervention to hold businesses socially and ethically accountable, public interests can not be ensured. 
 
 ## Part 2: Meritocracy 
 
