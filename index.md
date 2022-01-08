@@ -1,6 +1,6 @@
-## The same 24 hours: The fallacy of a meritocracy in a neoliberal society 
+# The same 24 hours: The fallacy of a meritocracy in a neoliberal society 
 
-# Part 1: Neoliberal theory
+## Part 1: Neoliberal theory
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
