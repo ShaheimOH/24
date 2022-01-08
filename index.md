@@ -20,7 +20,7 @@ Friedrich Von Hayek, a major contributor to neoliberalism, stated in his famous 
 
 **_it is … a real dilemma to what extent we ought to encourage in the young the belief that when they try they will really succeed, or should rather emphasise that inevitably some unworthy will succeed and some worthy will fail._**
 
-Hayek never stated a direct and robust relationship between working hard and succeeding in a neoliberal society. Instead, Hayek suggested the nobel lie _'of working hard can make you successful'_ is essential in sustaining a capitalistic society.
+Hayek never stated a direct and robust relationship between working hard and succeeding in a neoliberal society. Instead, Hayek suggested the nobel lie _'of working hard can make you successful'_ is essential in sustaining a capitalistic society as this will maximise productivity.
 
 **Therefore, to sustain a neoliberal and capitalistic society, a lie must be constructed of a meritocracy.**
 
