@@ -12,7 +12,7 @@ A meritocracy is a political system in which economic goods, political power and
 
 Or, if you work hard and are talented, you will be successful. 
 
-Most individuals in favour of free-market capitalism will state that neoliberalism rewards the hardworking and productive while punishing the lazy, creating a better society. This rhetoric was prevalent in 1930s America and led to the American Dream ideology.
+Most individuals in favour of neoliberalism will state that neoliberalism rewards the hardworking and productive while punishing the lazy, creating a better society. This rhetoric was prevalent in 1930s America and led to the American Dream ideology.
 
 This all sounds great and perfect, but there is a crucial problem. The theorists of neoliberalism did not buy it. 
 
