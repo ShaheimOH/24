@@ -10,6 +10,10 @@ The poltical ideology is said to be the most dominant political ideology of our 
 
 Neoliberalism allows businesses to control the economy with limited government control. So, allowing a few big shots to influence a country’s economy heavily.
 
+## Part 2: Meritocracy 
+
+A meritocracy is a political system in which economic goods, political power and success are entirely attributed to an individual’s talent, effort and achievement rather than their wealth, social class, gender, race.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
