@@ -12,7 +12,7 @@ A meritocracy is a political system in which economic goods, political power and
 
 Or, if you work hard and are talented, you will be successful. 
 
-Most individuals in favour of neoliberalism will state that neoliberalism rewards the hardworking and productive while punishing the lazy, creating a better society.
+Most individuals in favour of neoliberalism will state that _neoliberalism rewards the hardworking and productive while punishing the lazy, creating a better society_.
 
 This all sounds great and perfect, but there is a crucial problem. The theorists of neoliberalism did not buy it. 
 
