@@ -12,7 +12,7 @@ A meritocracy is a political system in which economic goods, political power and
 
 Or, if you work hard and are talented, you will be successful. 
 
-Most individuals in favour of neoliberalism will state that _neoliberalism rewards the hardworking and productive while punishing the lazy, creating a better society_. Mutual beneficial exchange is the underlying concept for this ideology. Classic liberals and neoliberals thought that if individuals are productive and efficient in an economy, they will help everyone in turn as everyone gains from exchange. However, a critical difference between neoliberal mutual beneficial exchange and classical liberalism is that neoliberalism stresses losers within the economy that are not productive and, therefore, punished. Meanwhile, classical liberalism emphasises the overall gain for everyone. 
+Most individuals in favour of neoliberalism will state that _neoliberalism rewards the hardworking and productive while punishing the lazy, creating a better society_. Mutual beneficial exchange is the underlying concept for this ideology. Classic liberals and neoliberals thought that if individuals are productive and efficient in an economy, they will help everyone in turn as everyone gains from exchange. However, a critical difference between neoliberal mutual beneficial exchange and classical liberalism is that neoliberalism stresses losers within the economy that are not productive and, therefore, punished. Meanwhile, classical liberalism emphasises the _overall gain for everyone_. 
 
 
 This all sounds great and perfect, but there is a crucial problem. The theorists of neoliberalism did not buy it. 
