@@ -34,5 +34,5 @@ The issue with lying is that it does not solve any problems. By ignoring factors
 
 - Free school meal pupils are half as likely to attend a top higher education institute (Russel group).
 
-However, by accepting that there is no equality of outcomes for individuals who work hard, we can find actionable solutions to balance the scales.
+**However, by accepting that there is no equality of outcomes for individuals who work hard, we can find actionable solutions to balance the scales.**
 
