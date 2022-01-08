@@ -4,7 +4,7 @@
 
 Neoliberalism refers to market-oriented policies involving limited government intervention such as eliminating price controls, deregulating capital markets, and lowering trade barriers through privatisation (transferring state-run services to private businesses) and austerity (government spending cuts and higher taxes).
 
-The poltical ideology is said to be the most dominant political ideology of our time. The conservative party commonly subscribe to this ideology and many of their policies have a neoliberal underpinning. Moreover, neoliberalism is heavily associated with Thatcherism, which saw the privatisation of state-run services, i.e. UK railway and British Telecommunications (BT).
+The political ideology is said to be the most dominant political ideology of our time and it's fair to say that the UK is a neoliberal society. The conservative party commonly subscribe to this ideology and many of their policies have a neoliberal underpinning. Moreover, neoliberalism is heavily associated with Thatcherism, which saw the privatisation of state-run services, i.e. UK railway and British Telecommunications (BT).
 
 ### To simply put it...
 
@@ -19,6 +19,8 @@ Or, if you work hard and are talented, you will be successful.
 Friedrich Von Hayek, a major contributor to neoliberalism, stated in his famous book of the serfdom to freedom:
 
 **_it is … a real dilemma to what extent we ought to encourage in the young the belief that when they try they will really succeed, or should rather emphasise that inevitably some unworthy will succeed and some worthy will fail._**
+
+Hayek never stated a direct and robust relationship between working hard and succeeding in a neoliberal society. Instead, Hayek suggested the nobel lie 'of working hard can make you successful' is essential in sustaining a capitalistic society.
 
 ### Markdown
 
