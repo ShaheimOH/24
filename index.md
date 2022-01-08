@@ -24,6 +24,13 @@ Hayek never stated a direct and robust relationship between working hard and suc
 
 Therefore, to sustain a neoliberal and capitalistic society, a lie must be constructed on success is entirely obtained through hard work. 
 
+## Part 3: Plaster over the cracks
+
+The issue with lying is that it does not solve any problems. By ignoring factors that can limit an individual from succeeding does not lead society to a true meritocracy which is arguably in the best interest of everyone. Furthermore, these factors such as class, race and gender are very grounded in reality. 
+
+
+However, by accepting that there is no equality of outcomes for individuals who work hard, we can find actionable solutions to balance the scales.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
