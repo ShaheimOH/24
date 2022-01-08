@@ -1,6 +1,6 @@
 # The same 24 hours: The fallacy of a meritocracy in a neoliberal society 
 
-## Part 1: Neoliberalism theory
+## Part 1: Neoliberalism
 
 Neoliberalism refers to market-oriented policies involving limited government intervention such as eliminating price controls, deregulating capital markets, and lowering trade barriers through privatisation (transferring state-run services to private businesses) and austerity (government spending cuts and higher taxes).
 
@@ -36,34 +36,3 @@ The issue with lying is that it does not solve any problems. By ignoring factors
 
 However, by accepting that there is no equality of outcomes for individuals who work hard, we can find actionable solutions to balance the scales.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShaheimOH/Political_Takes.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
