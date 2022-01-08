@@ -6,7 +6,7 @@ Neoliberalism refers to market-oriented policies involving limited government in
 
 The poltical ideology is said to be the most dominant political ideology of our time. The conservative party commonly subscribe to this ideology and many of their policies have a neoliberal underpinning. Moreover, neoliberalism is heavily associated with Thatcherism, which saw the privatisation of state-run services, i.e. UK railway and British Telecommunications (BT).
 
-# To simply put it...
+### To simply put it...
 
 Neoliberalism allows businesses to control the economy with limited government control. So, allowing a few big shots to influence a country’s economy heavily.
 
