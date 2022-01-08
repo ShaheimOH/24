@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The same 24 hours: The fallacy of a meritocracy in a neoliberal society 
 
 You can use the [editor on GitHub](https://github.com/ShaheimOH/Political_Takes.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
