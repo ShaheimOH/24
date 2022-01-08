@@ -28,6 +28,11 @@ Hayek never stated a direct and robust relationship between working hard and suc
 
 The issue with lying is that it does not solve any problems. By ignoring factors that can limit an individual from succeeding does not lead society to a true meritocracy which is arguably in the best interest of everyone. Furthermore, these factors such as class, race and gender are very grounded in reality. 
 
+- 20% of black Africans own their homes compared to 68% of their white British counterparts.
+
+- Women lead 15% of small-medium sized enterprises. 
+
+- Free school meal pupils are half as likely to attend a top higher education institute (Russel group).
 
 However, by accepting that there is no equality of outcomes for individuals who work hard, we can find actionable solutions to balance the scales.
 
