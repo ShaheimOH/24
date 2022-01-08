@@ -14,6 +14,10 @@ A meritocracy is a political system in which economic goods, political power and
 
 Or, if you work hard and are talented, you will be successful. 
 
+Most individuals in favour of free-market capitalism will state that neoliberalism rewards the hardworking and productive while punishing the lazy, creating a better society. This rhetoric was prevalent in 1930s America and led to the American Dream ideology.
+
+This all sounds great and perfect, but there is a crucial problem. The theorists of neoliberalism did not buy it. 
+
 Friedrich Von Hayek, a major contributor to neoliberalism, stated in his famous book of the serfdom to freedom:
 
 **_it is … a real dilemma to what extent we ought to encourage in the young the belief that when they try they will really succeed, or should rather emphasise that inevitably some unworthy will succeed and some worthy will fail._**
