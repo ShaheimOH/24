@@ -2,7 +2,7 @@
 
 ## Part 1: Neoliberalism
 
-Neoliberalism refers to market-oriented policies involving limited government intervention such as eliminating price controls, deregulating capital markets, and lowering trade barriers through privatisation (transferring state-run services to private businesses) and austerity (government spending cuts and higher taxes).
+Neoliberalism refers to market-oriented policies involving limited government intervention such as eliminating price controls, deregulating capital markets, and lowering trade barriers through privatisation (transferring state-run services to private businesses) and austerity (government spending cuts and higher taxes) [1].
 
 The political ideology is said to be the most dominant political ideology of our time and it's fair to say that the UK is a neoliberal society. The conservative party commonly subscribe to this ideology and many of their policies have a neoliberal underpinning. Moreover, neoliberalism is heavily associated with Thatcherism, which saw the privatisation of state-run services, i.e. UK railway and British Telecommunications (BT).
 
@@ -35,4 +35,7 @@ The issue with lying is that it does not solve any problems. By ignoring factors
 - Free school meal pupils are half as likely to attend a top higher education institute (Russel group).
 
 **However, by accepting that there is no equality of outcomes for individuals who work hard, we can find actionable solutions to balance the scales.**
+
+## References
+
 
