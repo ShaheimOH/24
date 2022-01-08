@@ -1,8 +1,8 @@
 # The same 24 hours: The fallacy of a meritocracy in a neoliberal society 
 
-## Part 1: Neoliberal theory
+## Part 1: Neoliberalism theory
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Neoliberalism is said to be the most dominant political ideology of our time. The conservative party commonly subscribe to this ideology and many of their policies have a neoliberal underpinning. Moreover, neoliberalism is heavily associated with Thatcherism, which saw the privatisation of state-run services, i.e. UK railway and British Telecommunications (BT).
 
 ### Markdown
 
