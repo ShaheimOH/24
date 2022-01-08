@@ -14,7 +14,7 @@ Neoliberalism allows businesses to control the economy with limited government c
 
 A meritocracy is a political system in which economic goods, political power and success are entirely attributed to an individual’s talent, effort and achievement rather than their wealth, social class, gender and race.
 
-### Or, if you work hard and are talented, you will be successful. 
+Or, if you work hard and are talented, you will be successful. 
 
 ### Markdown
 
